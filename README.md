@@ -2,7 +2,7 @@
 # 💫About Me :
 I'm currently working on developing my skills in web-dev & python
 I'm looking for collaboration in freelance or internship
-I'm currently actively learning Aws
+I'm currently actively learning MYSQL, React, ReactNative, JAVA
 
 
 ## 🌐Socials
