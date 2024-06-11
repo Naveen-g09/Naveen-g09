@@ -1,12 +1,28 @@
 # 💫 About Me:
 🔭 I’m currently working on React/React Native <br>👯 I’m looking to collaborate on Intresting Projects<br>🌱 I’m currently learning Multiple Subjects while pursuing MCA @VESIT
 
+<details>
+  <summary>
 
-## 🌐 Socials:
+# 🌐 Connect with me:
+    
+  </summary>
+
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/naveen._.g) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naveen-gummella-vesit) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Naveengummella) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/naveen_dev09) 
+  
+</details>
+
+
+<details>
+  <summary>
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  </summary>
+
+
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -46,13 +62,9 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naveen-g09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=naveen-g09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveen-g09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</details>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=naveen-g09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
