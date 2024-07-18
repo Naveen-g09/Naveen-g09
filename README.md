@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React/React Native <br>👯 I’m looking to collaborate on Intresting Projects<br>🌱 I’m currently learning Multiple Subjects while pursuing MCA @VESIT
+🔭 I’m currently working on React/React Native <br>👯 I’m looking to collaborate on Intresting Projects<br>🌱 I’m currently focusing on Diving Deep into the World of 0's & 1's <br>I get Stuck in VIM sometimes
 
 <details>
   <summary>
